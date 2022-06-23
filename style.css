@@ -11,7 +11,7 @@ body{
   padding: 0 10px;
   min-height: 100vh;
   align-items: center;
-  background: #84d824;
+  background: #13160f;
   justify-content: center;
 }
 .wrapper{
@@ -62,7 +62,7 @@ header p{
   cursor: pointer;
   margin-top: 20px;
   font-size: 17px;
-  background: #84d824;
+  background: #13160f;
 }
 .qr-code{
   opacity: 0;
